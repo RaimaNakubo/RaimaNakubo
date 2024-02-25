@@ -35,4 +35,4 @@ Additional info: Looking forward to learn new things in software engineering. Ac
 Socials: [Telegram](https://t.me/Im_Raining_Man),
          [Discord](https://discordapp.com/users/168787076836360193/) - RainingMan#6253
          
-Contact: gna.gorzar@gmail.com
+Contact: bna.gorzar@gmail.com
