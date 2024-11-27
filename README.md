@@ -16,7 +16,7 @@ Hi, I'm Nikita Belenkov and here is some information about my persona.
 
 
 Country: Russia<br>
-Age: 24<br>
+Age: 25<br>
 Gender: Male<br>
 Language: Russian, English<br>
 Education: 09/2017 - 06/2021 Penza State University - Bachelor's degree in Informatics and Computer Science (09.03.01)
